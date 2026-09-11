@@ -17,6 +17,10 @@ const images = [
     src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-91IwbFZrW74vHQxNjid7r9TgbQsg2j.png',
     alt: 'Sistema solar com painel, bateria, controlador e bomba de água',
   },
+  {
+    src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-hXM5lYiSJsSgN4VBlm7jAU32ACO2Ml.png',
+    alt: 'Maquete sustentável com reservatório de água da chuva, painel solar e horta',
+  },
 ]
 
 export function Gallery() {
