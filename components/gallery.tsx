@@ -5,7 +5,10 @@ import { X, ZoomIn } from 'lucide-react'
 import { Reveal } from '@/components/reveal'
 
 const images = [
-  { src: '/images/gallery-1.png', alt: 'Maquete do projeto com painel solar e sistema de irrigação' },
+  {
+    src: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image.png-X1835Zsm479K2WhfCtN96cKfGPkJiA.jpeg',
+    alt: 'Maquete escolar com painel solar, horta e casa sustentável',
+  },
   { src: '/images/gallery-2.png', alt: 'Painéis solares em um campo verde sob o sol' },
   { src: '/images/gallery-3.png', alt: 'Sistema de irrigação por gotejamento em uma horta' },
   { src: '/images/gallery-4.png', alt: 'Sistema de captação de água da chuva ao lado de casa' },
